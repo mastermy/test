@@ -7,6 +7,7 @@ Findings:
 - IDOR
 - CSRF
 
-'''
+```
 python -c 'import pty;pty.spawn("/bin/sh")'
-'''
+```
+
